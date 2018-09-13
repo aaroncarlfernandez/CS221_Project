@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Aaron Carl\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Aaron Carl\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_CS221_TPL_Project.314110595.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Aaron Carl\Desktop\CS221_Project" t="IncludeFlat">
+      <e p="CS221_Events" t="IncludeRecursive">
+        <e p="ActivityDesigners" t="Include">
+          <e p="Enter_countDesigner.cs" t="Include" />
+          <e p="Enter_countDesigner.xaml" t="Include" />
+          <e p="ExpressionMessageDesigner.cs" t="Include" />
+          <e p="ExpressionMessageDesigner.xaml" t="Include" />
+          <e p="InputExpressionNumberDesigner.cs" t="Include" />
+          <e p="InputExpressionNumberDesigner.xaml" t="Include" />
+          <e p="InputNumberDesigner.cs" t="Include" />
+          <e p="InputNumberDesigner.xaml" t="Include" />
+          <e p="MessageDesigner.cs" t="Include" />
+          <e p="MessageDesigner.xaml" t="Include" />
+          <e p="PrintDesigner.cs" t="Include" />
+          <e p="PrintDesigner.xaml" t="Include" />
+          <e p="RandomNumberDesigner.cs" t="Include" />
+          <e p="RandomNumberDesigner.xaml" t="Include" />
+          <e p="SimpleMessageDesigner.cs" t="Include" />
+          <e p="SimpleMessageDesigner.xaml" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CS221_Events.csproj" t="IncludeRecursive" />
+        <e p="Enter_count.cs" t="Include" />
+        <e p="ExpressionMessage.cs" t="Include" />
+        <e p="InputExpressionNumber.cs" t="Include" />
+        <e p="InputIntForm.cs" t="Include" />
+        <e p="InputIntForm.Designer.cs" t="Include" />
+        <e p="InputIntForm.resx" t="Include" />
+        <e p="InputNumber.cs" t="Include" />
+        <e p="Message.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RandomNumber.cs" t="Include" />
+        <e p="SimpleMessage.cs" t="Include" />
+        <e p="Type.cs" t="Include" />
+        <e p="WorkflowExecutionLog.cs" t="Include" />
+      </e>
+      <e p="CS221_TPL_Project" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CS221_TPL_Project.csproj" t="IncludeRecursive" />
+        <e p="DataCommands.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="RehostingWFDesigner.xaml" t="Include" />
+        <e p="RehostingWFDesigner.xaml.cs" t="Include" />
+      </e>
+      <e p="CS221_TPL_Project.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25e949e1-694e-4078-8c7e-b54ced7534f9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-904989921">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="config" value="2" />
+          <entry key="cs" value="53" />
+          <entry key="resx" value="2" />
+          <entry key="xaml" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="53" />
+          <entry key="Config" value="2" />
+          <entry key="Resources" value="2" />
+          <entry key="XAML" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="489" />
+          <entry key="xaml" value="171" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="489" />
+          <entry key="XAML" value="171" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/SimpleMessageDesigner.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
+              <folding>
+                <marker date="1536745520797" expanded="true" signature="106:2403" ph="&lt;&lt;sad:ActivityDesigner.Resources&gt;&#10;    &lt;sadc:ArgumentToExpressionConverter x:Uid=&quot;sadv:ArgumentToExpressionConverter_1&quot; x:Key=&quot;argumentToExpressionConverter&quot; /&gt;&#10;  &lt;/sad:ActivityDesigner.Resources&gt; &lt;Grid Height=&quot;54&quot; Name=&quot;grid1&quot;&gt;&#10;    &lt;Grid.RowDefinitions&gt;&#10;      &lt;RowDefinition Height=&quot;23*&quot; /&gt;&#10;      &lt;RowDefinition Height=&quot;23*&quot; /&gt;&#10;    &lt;/Grid.RowDefinitions&gt;&#10;    &lt;Grid.ColumnDefinitions&gt;&#10;      &lt;ColumnDefinition Width=&quot;95*&quot; /&gt;&#10;      &lt;ColumnDefinition Width=&quot;138*&quot; /&gt;&#10;    &lt;/Grid.ColumnDefinitions&gt;&#10;      &#10;    &lt;Label Content=&quot;Header:&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;labelPrint&quot; VerticalAlignment=&quot;Top&quot; Grid.ColumnSpan=&quot;1&quot; /&gt;&#10;    &lt;Label Content=&quot;Text:&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;labelFrom&quot; VerticalAlignment=&quot;Top&quot; Grid.Row=&quot;1&quot; Grid.ColumnSpan=&quot;1&quot; /&gt;&#10;      &#10;    &lt;TextBox Grid.Column=&quot;1&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;txtCaption&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;139&quot;&#10;                            AutomationProperties.AutomationId=&quot;Header&quot;&#10;                            Text=&quot;{Binding Path=ModelItem.Header, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot;&#10;                            /&gt;&#10;&#10;    &lt;TextBox Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;txtText&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;139&quot;&#10;                            AutomationProperties.AutomationId=&quot;Text&quot;&#10;                            Text=&quot;{Binding Path=ModelItem.Text, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot;&#10;                            /&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1536745520797" expanded="true" signature="895:1089" ph="&lt;&lt;sadc:ArgumentToExpressionConverter x:Uid=&quot;sadv:ArgumentToExpressionConverter_1&quot; x:Key=&quot;argumentToExpressionConverter&quot; /&gt;.../&gt;" />
+                <marker date="1536745520797" expanded="true" signature="1092:2379" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;      &lt;RowDefinition Height=&quot;23*&quot; /&gt;&#10;      &lt;RowDefinition Height=&quot;23*&quot; /&gt;&#10;    &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;      &lt;ColumnDefinition Width=&quot;95*&quot; /&gt;&#10;      &lt;ColumnDefinition Width=&quot;138*&quot; /&gt;&#10;    &lt;/Grid.ColumnDefinitions&gt; &lt;Label Content=&quot;Header:&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;labelPrint&quot; VerticalAlignment=&quot;Top&quot; Grid.ColumnSpan=&quot;1&quot; /&gt; &lt;Label Content=&quot;Text:&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;labelFrom&quot; VerticalAlignment=&quot;Top&quot; Grid.Row=&quot;1&quot; Grid.ColumnSpan=&quot;1&quot; /&gt; &lt;TextBox Grid.Column=&quot;1&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;txtCaption&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;139&quot;&#10;                            AutomationProperties.AutomationId=&quot;Header&quot;&#10;                            Text=&quot;{Binding Path=ModelItem.Header, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot;&#10;                            /&gt; &lt;TextBox Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;txtText&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;139&quot;&#10;                            AutomationProperties.AutomationId=&quot;Text&quot;&#10;                            Text=&quot;{Binding Path=ModelItem.Text, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot;&#10;                            /&gt;.../&gt;" />
+                <marker date="1536745520797" expanded="true" signature="1128:1250" ph="&lt;&lt;RowDefinition Height=&quot;23*&quot; /&gt; &lt;RowDefinition Height=&quot;23*&quot; /&gt;.../&gt;" />
+                <marker date="1536745520797" expanded="true" signature="1255:1388" ph="&lt;&lt;ColumnDefinition Width=&quot;95*&quot; /&gt; &lt;ColumnDefinition Width=&quot;138*&quot; /&gt;.../&gt;" />
+                <marker date="1536745520797" expanded="true" signature="1683:2019" ph="&lt;.../&gt;" />
+                <marker date="1536745520797" expanded="true" signature="2025:2367" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleActivities/Enter_count.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="64" column="51" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
+              <folding>
+                <marker date="1536743731595" expanded="false" signature="6:277" ph="..." />
+                <marker date="1536743731595" expanded="true" signature="305:2274" ph="{...}" />
+                <marker date="1536743731595" expanded="true" signature="452:2272" ph="{...}" />
+                <marker date="1536743731595" expanded="true" signature="547:601" ph="{...}" />
+                <marker date="1536743731595" expanded="true" signature="698:755" ph="{...}" />
+                <marker date="1536743731595" expanded="true" signature="785:805" ph="{...}" />
+                <marker date="1536743731595" expanded="true" signature="883:1463" ph="{...}" />
+                <marker date="1536743731595" expanded="true" signature="1366:1451" ph="{...}" />
+                <marker date="1536743731595" expanded="true" signature="1533:2266" ph="{...}" />
+                <marker date="1536743731595" expanded="true" signature="1864:2040" ph="{...}" />
+                <marker date="1536743731595" expanded="true" signature="2057:2139" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleActivities/InputIntForm.Designer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1360">
+              <caret line="80" column="41" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
+              <folding>
+                <marker date="1536745673135" expanded="true" signature="59:4084" ph="{...}" />
+                <marker date="1536745673135" expanded="true" signature="74:150" ph="/// Required designer variable. ... " />
+                <marker date="1536745673135" expanded="true" signature="228:419" ph="/// Clean up any resources being used. ... " />
+                <marker date="1536745673135" expanded="true" signature="475:649" ph="{...}" />
+                <marker date="1536745673135" expanded="true" signature="536:602" ph="{...}" />
+                <marker date="1536745673135" expanded="true" signature="659:3896" ph="Windows Form Designer generated code" />
+                <marker date="1536745673135" expanded="true" signature="713:876" ph="/// Required method for Designer support - do not modify ... " />
+                <marker date="1536745673135" expanded="true" signature="919:3876" ph="{...}" />
+                <marker date="1536745673135" expanded="true" signature="1274:1322" ph="/* NumericUpDown ... */" />
+                <marker date="1536745673135" expanded="true" signature="1669:1720" ph="/* InputNumberLabel ... */" />
+                <marker date="1536745673135" expanded="true" signature="2197:2240" ph="/* OkButton ... */" />
+                <marker date="1536745673135" expanded="true" signature="2735:2782" ph="/* InputIntForm ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleActivities/InputNumber.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <folding>
+                <marker date="1536743496614" expanded="true" signature="6:277" ph="..." />
+                <marker date="1536743496614" expanded="true" signature="305:1951" ph="{...}" />
+                <marker date="1536743496614" expanded="true" signature="452:1949" ph="{...}" />
+                <marker date="1536743496614" expanded="true" signature="492:546" ph="{...}" />
+                <marker date="1536743496614" expanded="true" signature="643:700" ph="{...}" />
+                <marker date="1536743496614" expanded="true" signature="730:750" ph="{...}" />
+                <marker date="1536743496614" expanded="true" signature="828:1180" ph="{...}" />
+                <marker date="1536743496614" expanded="true" signature="1117:1168" ph="{...}" />
+                <marker date="1536743496614" expanded="true" signature="1250:1943" ph="{...}" />
+                <marker date="1536743496614" expanded="true" signature="1551:1716" ph="{...}" />
+                <marker date="1536743496614" expanded="true" signature="1733:1815" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleActivities/Message.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding>
+                <marker date="1536743880364" expanded="false" signature="6:255" ph="..." />
+                <marker date="1536743880364" expanded="true" signature="283:1757" ph="{...}" />
+                <marker date="1536743880364" expanded="true" signature="423:1755" ph="{...}" />
+                <marker date="1536743880364" expanded="true" signature="499:556" ph="{...}" />
+                <marker date="1536743880364" expanded="true" signature="596:653" ph="{...}" />
+                <marker date="1536743880364" expanded="true" signature="679:699" ph="{...}" />
+                <marker date="1536743880364" expanded="true" signature="777:1340" ph="{...}" />
+                <marker date="1536743880364" expanded="true" signature="1244:1328" ph="{...}" />
+                <marker date="1536743880364" expanded="true" signature="1410:1749" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleActivities/RandomNumber.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="64" column="69" selection-start-line="64" selection-start-column="69" selection-end-line="64" selection-end-column="69" />
+              <folding>
+                <marker date="1536743577894" expanded="false" signature="6:246" ph="..." />
+                <marker date="1536743577894" expanded="true" signature="274:2173" ph="{...}" />
+                <marker date="1536743577894" expanded="true" signature="391:2171" ph="{...}" />
+                <marker date="1536743577894" expanded="true" signature="465:519" ph="{...}" />
+                <marker date="1536743577894" expanded="true" signature="585:639" ph="{...}" />
+                <marker date="1536743577894" expanded="true" signature="703:757" ph="{...}" />
+                <marker date="1536743577894" expanded="true" signature="788:808" ph="{...}" />
+                <marker date="1536743577894" expanded="true" signature="886:1658" ph="{...}" />
+                <marker date="1536743577894" expanded="true" signature="1527:1646" ph="{...}" />
+                <marker date="1536743577894" expanded="true" signature="1728:2165" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleActivities/SimpleMessage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding>
+                <marker date="1536743622678" expanded="false" signature="6:224" ph="..." />
+                <marker date="1536743622678" expanded="true" signature="252:1026" ph="{...}" />
+                <marker date="1536743622678" expanded="true" signature="401:1024" ph="{...}" />
+                <marker date="1536743622678" expanded="true" signature="465:522" ph="{...}" />
+                <marker date="1536743622678" expanded="true" signature="550:607" ph="{...}" />
+                <marker date="1536743622678" expanded="true" signature="639:659" ph="{...}" />
+                <marker date="1536743622678" expanded="true" signature="737:757" ph="{...}" />
+                <marker date="1536743622678" expanded="true" signature="827:1018" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleActivities/Type.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding>
+                <marker date="1536743820123" expanded="false" signature="6:227" ph="..." />
+                <marker date="1536743820123" expanded="true" signature="255:1474" ph="{...}" />
+                <marker date="1536743820123" expanded="true" signature="387:1472" ph="{...}" />
+                <marker date="1536743820123" expanded="true" signature="462:519" ph="{...}" />
+                <marker date="1536743820123" expanded="true" signature="557:611" ph="{...}" />
+                <marker date="1536743820123" expanded="true" signature="634:654" ph="{...}" />
+                <marker date="1536743820123" expanded="true" signature="732:1080" ph="{...}" />
+                <marker date="1536743820123" expanded="true" signature="1017:1068" ph="{...}" />
+                <marker date="1536743820123" expanded="true" signature="1150:1466" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SimpleActivities/WorkflowExecutionLog.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1459716090000" expanded="false" signature="6:102" ph="..." />
+                <marker date="1459716090000" expanded="true" signature="130:633" ph="{...}" />
+                <marker date="1459716090000" expanded="true" signature="255:631" ph="{...}" />
+                <marker date="1459716090000" expanded="true" signature="395:625" ph="{...}" />
+                <marker date="1459716090000" expanded="true" signature="450:529" ph="{...}" />
+                <marker date="1459716090000" expanded="true" signature="546:615" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleActivities/InputIntForm.resx">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DesignerRehosting/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/PrintDesigner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/InputNumberDesigner.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/RandomNumberDesigner.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/SimpleMessageDesigner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/SimpleMessageDesigner.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/RandomNumberDesigner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/ExpressionMessageDesigner.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/Enter_countDesigner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/PrintDesigner.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/InputExpressionNumberDesigner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/MessageDesigner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/MessageDesigner.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/InputNumberDesigner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/InputExpressionNumberDesigner.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/Enter_countDesigner.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DesignerRehosting/app.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DesignerRehosting/DataCommands.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DesignerRehosting/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DesignerRehosting/RehostingWFDesigner.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/InputIntForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/Message.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ExpressionMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/RandomNumber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/SimpleMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/InputIntForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/InputExpressionNumber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/InputNumber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/InputIntForm.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/WorkflowExecutionLog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/Enter_count.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/Type.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DesignerRehosting/Properties/Resources.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DesignerRehosting/Properties/Settings.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/ExpressionMessageDesigner.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SimpleActivities/ActivityDesigners/Enter_countDesigner.cs" />
+        <option value="$PROJECT_DIR$/SimpleActivities/ActivityDesigners/PrintDesigner.cs" />
+        <option value="$PROJECT_DIR$/SimpleActivities/ActivityDesigners/MessageDesigner.cs" />
+        <option value="$PROJECT_DIR$/SimpleActivities/ExpressionMessage.cs" />
+        <option value="$PROJECT_DIR$/SimpleActivities/InputExpressionNumber.cs" />
+        <option value="$PROJECT_DIR$/SimpleActivities/InputNumber.cs" />
+        <option value="$PROJECT_DIR$/SimpleActivities/RandomNumber.cs" />
+        <option value="$PROJECT_DIR$/SimpleActivities/SimpleMessage.cs" />
+        <option value="$PROJECT_DIR$/SimpleActivities/Enter_count.cs" />
+        <option value="$PROJECT_DIR$/SimpleActivities/Type.cs" />
+        <option value="$PROJECT_DIR$/SimpleActivities/Message.cs" />
+        <option value="$PROJECT_DIR$/DesignerRehosting/RehostingWFDesigner.xaml.cs" />
+        <option value="$PROJECT_DIR$/SimpleActivities/ActivityDesigners/Enter_countDesigner.xaml" />
+        <option value="$PROJECT_DIR$/SimpleActivities/ActivityDesigners/ExpressionMessageDesigner.xaml" />
+        <option value="$PROJECT_DIR$/SimpleActivities/ActivityDesigners/InputExpressionNumberDesigner.xaml" />
+        <option value="$PROJECT_DIR$/SimpleActivities/ActivityDesigners/InputNumberDesigner.xaml" />
+        <option value="$PROJECT_DIR$/SimpleActivities/ActivityDesigners/MessageDesigner.xaml" />
+        <option value="$PROJECT_DIR$/SimpleActivities/ActivityDesigners/PrintDesigner.xaml" />
+        <option value="$PROJECT_DIR$/SimpleActivities/ActivityDesigners/RandomNumberDesigner.xaml" />
+        <option value="$PROJECT_DIR$/SimpleActivities/ActivityDesigners/SimpleMessageDesigner.xaml" />
+        <option value="$PROJECT_DIR$/SimpleActivities/InputIntForm.Designer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="244" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DesignerRehosting" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DesignerRehosting" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DesignerRehosting" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DesignerRehosting" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DesignerRehosting" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DesignerRehosting" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DesignerRehosting" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App.xaml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DesignerRehosting" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SimpleActivities" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DesignerRehosting" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SimpleActivities" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DesignerRehosting" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SimpleActivities" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ActivityDesigners" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DesignerRehosting" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SimpleActivities" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="InputIntForm.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/VisualProgrammingEnv-master/DR.sln" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DesignerRehosting/bin/Debug/DesignerRehosting.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesignerRehosting/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DesignerRehosting/DesignerRehosting.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25e949e1-694e-4078-8c7e-b54ced7534f9" name="Default Changelist" comment="" />
+      <created>1536741430341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536741430341</updated>
+      <workItem from="1536741431482" duration="2494000" />
+      <workItem from="1536744832308" duration="1945000" />
+      <workItem from="1536823121062" duration="1733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6172000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="244" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32884097" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="XAML Preview" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32884097" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/InputExpressionNumberDesigner.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/InputNumberDesigner.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/RandomNumberDesigner.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/SimpleMessageDesigner.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/PrintDesigner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/MessageDesigner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ExpressionMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/InputExpressionNumber.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/InputIntForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignerRehosting/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignerRehosting/Properties/Resources.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignerRehosting/Properties/Settings.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignerRehosting/app.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignerRehosting/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignerRehosting/DataCommands.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignerRehosting/RehostingWFDesigner.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3363">
+          <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/Enter_countDesigner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/Enter_countDesigner.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="41" column="74" selection-start-line="41" selection-start-column="74" selection-end-line="41" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/ExpressionMessageDesigner.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/ExpressionMessageDesigner.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="38" column="68" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/InputExpressionNumberDesigner.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="41" column="74" selection-start-line="41" selection-start-column="74" selection-end-line="41" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/InputNumberDesigner.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/MessageDesigner.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="38" column="68" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/PrintDesigner.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="38" column="65" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/RandomNumberDesigner.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="51" column="70" selection-start-line="51" selection-start-column="70" selection-end-line="51" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/ActivityDesigners/SimpleMessageDesigner.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
+          <folding>
+            <marker date="1536745520797" expanded="true" signature="106:2403" ph="&lt;&lt;sad:ActivityDesigner.Resources&gt;&#10;    &lt;sadc:ArgumentToExpressionConverter x:Uid=&quot;sadv:ArgumentToExpressionConverter_1&quot; x:Key=&quot;argumentToExpressionConverter&quot; /&gt;&#10;  &lt;/sad:ActivityDesigner.Resources&gt; &lt;Grid Height=&quot;54&quot; Name=&quot;grid1&quot;&gt;&#10;    &lt;Grid.RowDefinitions&gt;&#10;      &lt;RowDefinition Height=&quot;23*&quot; /&gt;&#10;      &lt;RowDefinition Height=&quot;23*&quot; /&gt;&#10;    &lt;/Grid.RowDefinitions&gt;&#10;    &lt;Grid.ColumnDefinitions&gt;&#10;      &lt;ColumnDefinition Width=&quot;95*&quot; /&gt;&#10;      &lt;ColumnDefinition Width=&quot;138*&quot; /&gt;&#10;    &lt;/Grid.ColumnDefinitions&gt;&#10;      &#10;    &lt;Label Content=&quot;Header:&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;labelPrint&quot; VerticalAlignment=&quot;Top&quot; Grid.ColumnSpan=&quot;1&quot; /&gt;&#10;    &lt;Label Content=&quot;Text:&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;labelFrom&quot; VerticalAlignment=&quot;Top&quot; Grid.Row=&quot;1&quot; Grid.ColumnSpan=&quot;1&quot; /&gt;&#10;      &#10;    &lt;TextBox Grid.Column=&quot;1&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;txtCaption&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;139&quot;&#10;                            AutomationProperties.AutomationId=&quot;Header&quot;&#10;                            Text=&quot;{Binding Path=ModelItem.Header, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot;&#10;                            /&gt;&#10;&#10;    &lt;TextBox Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;txtText&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;139&quot;&#10;                            AutomationProperties.AutomationId=&quot;Text&quot;&#10;                            Text=&quot;{Binding Path=ModelItem.Text, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot;&#10;                            /&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1536745520797" expanded="true" signature="895:1089" ph="&lt;&lt;sadc:ArgumentToExpressionConverter x:Uid=&quot;sadv:ArgumentToExpressionConverter_1&quot; x:Key=&quot;argumentToExpressionConverter&quot; /&gt;.../&gt;" />
+            <marker date="1536745520797" expanded="true" signature="1092:2379" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;      &lt;RowDefinition Height=&quot;23*&quot; /&gt;&#10;      &lt;RowDefinition Height=&quot;23*&quot; /&gt;&#10;    &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;      &lt;ColumnDefinition Width=&quot;95*&quot; /&gt;&#10;      &lt;ColumnDefinition Width=&quot;138*&quot; /&gt;&#10;    &lt;/Grid.ColumnDefinitions&gt; &lt;Label Content=&quot;Header:&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;labelPrint&quot; VerticalAlignment=&quot;Top&quot; Grid.ColumnSpan=&quot;1&quot; /&gt; &lt;Label Content=&quot;Text:&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;labelFrom&quot; VerticalAlignment=&quot;Top&quot; Grid.Row=&quot;1&quot; Grid.ColumnSpan=&quot;1&quot; /&gt; &lt;TextBox Grid.Column=&quot;1&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;txtCaption&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;139&quot;&#10;                            AutomationProperties.AutomationId=&quot;Header&quot;&#10;                            Text=&quot;{Binding Path=ModelItem.Header, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot;&#10;                            /&gt; &lt;TextBox Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot; Height=&quot;23&quot; HorizontalAlignment=&quot;Left&quot; Name=&quot;txtText&quot; VerticalAlignment=&quot;Top&quot; Width=&quot;139&quot;&#10;                            AutomationProperties.AutomationId=&quot;Text&quot;&#10;                            Text=&quot;{Binding Path=ModelItem.Text, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}&quot;&#10;                            /&gt;.../&gt;" />
+            <marker date="1536745520797" expanded="true" signature="1128:1250" ph="&lt;&lt;RowDefinition Height=&quot;23*&quot; /&gt; &lt;RowDefinition Height=&quot;23*&quot; /&gt;.../&gt;" />
+            <marker date="1536745520797" expanded="true" signature="1255:1388" ph="&lt;&lt;ColumnDefinition Width=&quot;95*&quot; /&gt; &lt;ColumnDefinition Width=&quot;138*&quot; /&gt;.../&gt;" />
+            <marker date="1536745520797" expanded="true" signature="1683:2019" ph="&lt;.../&gt;" />
+            <marker date="1536745520797" expanded="true" signature="2025:2367" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/Enter_count.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="64" column="51" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
+          <folding>
+            <marker date="1536743731595" expanded="false" signature="6:277" ph="..." />
+            <marker date="1536743731595" expanded="true" signature="305:2274" ph="{...}" />
+            <marker date="1536743731595" expanded="true" signature="452:2272" ph="{...}" />
+            <marker date="1536743731595" expanded="true" signature="547:601" ph="{...}" />
+            <marker date="1536743731595" expanded="true" signature="698:755" ph="{...}" />
+            <marker date="1536743731595" expanded="true" signature="785:805" ph="{...}" />
+            <marker date="1536743731595" expanded="true" signature="883:1463" ph="{...}" />
+            <marker date="1536743731595" expanded="true" signature="1366:1451" ph="{...}" />
+            <marker date="1536743731595" expanded="true" signature="1533:2266" ph="{...}" />
+            <marker date="1536743731595" expanded="true" signature="1864:2040" ph="{...}" />
+            <marker date="1536743731595" expanded="true" signature="2057:2139" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/InputIntForm.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="41" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
+          <folding>
+            <marker date="1536745673135" expanded="true" signature="59:4084" ph="{...}" />
+            <marker date="1536745673135" expanded="true" signature="74:150" ph="/// Required designer variable. ... " />
+            <marker date="1536745673135" expanded="true" signature="228:419" ph="/// Clean up any resources being used. ... " />
+            <marker date="1536745673135" expanded="true" signature="475:649" ph="{...}" />
+            <marker date="1536745673135" expanded="true" signature="536:602" ph="{...}" />
+            <marker date="1536745673135" expanded="true" signature="659:3896" ph="Windows Form Designer generated code" />
+            <marker date="1536745673135" expanded="true" signature="713:876" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1536745673135" expanded="true" signature="919:3876" ph="{...}" />
+            <marker date="1536745673135" expanded="true" signature="1274:1322" ph="/* NumericUpDown ... */" />
+            <marker date="1536745673135" expanded="true" signature="1669:1720" ph="/* InputNumberLabel ... */" />
+            <marker date="1536745673135" expanded="true" signature="2197:2240" ph="/* OkButton ... */" />
+            <marker date="1536745673135" expanded="true" signature="2735:2782" ph="/* InputIntForm ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/InputNumber.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1536743496614" expanded="true" signature="6:277" ph="..." />
+            <marker date="1536743496614" expanded="true" signature="305:1951" ph="{...}" />
+            <marker date="1536743496614" expanded="true" signature="452:1949" ph="{...}" />
+            <marker date="1536743496614" expanded="true" signature="492:546" ph="{...}" />
+            <marker date="1536743496614" expanded="true" signature="643:700" ph="{...}" />
+            <marker date="1536743496614" expanded="true" signature="730:750" ph="{...}" />
+            <marker date="1536743496614" expanded="true" signature="828:1180" ph="{...}" />
+            <marker date="1536743496614" expanded="true" signature="1117:1168" ph="{...}" />
+            <marker date="1536743496614" expanded="true" signature="1250:1943" ph="{...}" />
+            <marker date="1536743496614" expanded="true" signature="1551:1716" ph="{...}" />
+            <marker date="1536743496614" expanded="true" signature="1733:1815" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/Message.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding>
+            <marker date="1536743880364" expanded="false" signature="6:255" ph="..." />
+            <marker date="1536743880364" expanded="true" signature="283:1757" ph="{...}" />
+            <marker date="1536743880364" expanded="true" signature="423:1755" ph="{...}" />
+            <marker date="1536743880364" expanded="true" signature="499:556" ph="{...}" />
+            <marker date="1536743880364" expanded="true" signature="596:653" ph="{...}" />
+            <marker date="1536743880364" expanded="true" signature="679:699" ph="{...}" />
+            <marker date="1536743880364" expanded="true" signature="777:1340" ph="{...}" />
+            <marker date="1536743880364" expanded="true" signature="1244:1328" ph="{...}" />
+            <marker date="1536743880364" expanded="true" signature="1410:1749" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/RandomNumber.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="64" column="69" selection-start-line="64" selection-start-column="69" selection-end-line="64" selection-end-column="69" />
+          <folding>
+            <marker date="1536743577894" expanded="false" signature="6:246" ph="..." />
+            <marker date="1536743577894" expanded="true" signature="274:2173" ph="{...}" />
+            <marker date="1536743577894" expanded="true" signature="391:2171" ph="{...}" />
+            <marker date="1536743577894" expanded="true" signature="465:519" ph="{...}" />
+            <marker date="1536743577894" expanded="true" signature="585:639" ph="{...}" />
+            <marker date="1536743577894" expanded="true" signature="703:757" ph="{...}" />
+            <marker date="1536743577894" expanded="true" signature="788:808" ph="{...}" />
+            <marker date="1536743577894" expanded="true" signature="886:1658" ph="{...}" />
+            <marker date="1536743577894" expanded="true" signature="1527:1646" ph="{...}" />
+            <marker date="1536743577894" expanded="true" signature="1728:2165" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/SimpleMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <marker date="1536743622678" expanded="false" signature="6:224" ph="..." />
+            <marker date="1536743622678" expanded="true" signature="252:1026" ph="{...}" />
+            <marker date="1536743622678" expanded="true" signature="401:1024" ph="{...}" />
+            <marker date="1536743622678" expanded="true" signature="465:522" ph="{...}" />
+            <marker date="1536743622678" expanded="true" signature="550:607" ph="{...}" />
+            <marker date="1536743622678" expanded="true" signature="639:659" ph="{...}" />
+            <marker date="1536743622678" expanded="true" signature="737:757" ph="{...}" />
+            <marker date="1536743622678" expanded="true" signature="827:1018" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/Type.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <marker date="1536743820123" expanded="false" signature="6:227" ph="..." />
+            <marker date="1536743820123" expanded="true" signature="255:1474" ph="{...}" />
+            <marker date="1536743820123" expanded="true" signature="387:1472" ph="{...}" />
+            <marker date="1536743820123" expanded="true" signature="462:519" ph="{...}" />
+            <marker date="1536743820123" expanded="true" signature="557:611" ph="{...}" />
+            <marker date="1536743820123" expanded="true" signature="634:654" ph="{...}" />
+            <marker date="1536743820123" expanded="true" signature="732:1080" ph="{...}" />
+            <marker date="1536743820123" expanded="true" signature="1017:1068" ph="{...}" />
+            <marker date="1536743820123" expanded="true" signature="1150:1466" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/InputIntForm.resx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleActivities/WorkflowExecutionLog.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1459716090000" expanded="false" signature="6:102" ph="..." />
+            <marker date="1459716090000" expanded="true" signature="130:633" ph="{...}" />
+            <marker date="1459716090000" expanded="true" signature="255:631" ph="{...}" />
+            <marker date="1459716090000" expanded="true" signature="395:625" ph="{...}" />
+            <marker date="1459716090000" expanded="true" signature="450:529" ph="{...}" />
+            <marker date="1459716090000" expanded="true" signature="546:615" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

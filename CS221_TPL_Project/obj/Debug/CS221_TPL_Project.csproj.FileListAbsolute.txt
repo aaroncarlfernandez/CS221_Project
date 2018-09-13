@@ -1,0 +1,16 @@
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\bin\Debug\CS221_TPL_Project.exe.config
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\bin\Debug\CS221_TPL_Project.exe
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\bin\Debug\CS221_TPL_Project.pdb
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\bin\Debug\CS221_Events.dll
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\bin\Debug\CS221_Events.pdb
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\obj\Debug\CS221_TPL_Project.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\obj\Debug\RehostingWFDesigner.g.cs
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\obj\Debug\App.g.cs
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\obj\Debug\CS221_TPL_Project_MarkupCompile.cache
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\obj\Debug\CS221_TPL_Project_MarkupCompile.lref
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\obj\Debug\RehostingWFDesigner.baml
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\obj\Debug\CS221_TPL_Project.g.resources
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\obj\Debug\CS221_TPL_Project.Properties.Resources.resources
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\obj\Debug\CS221_TPL_Project.csproj.GenerateResource.Cache
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\obj\Debug\CS221_TPL_Project.exe
+C:\Users\Aaron Carl\Desktop\CS221_Project\CS221_TPL_Project\obj\Debug\CS221_TPL_Project.pdb
